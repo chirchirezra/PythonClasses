@@ -1,8 +1,5 @@
 {
-
-    "password":"info@json.com",
-    "parent_dir":"../temp/jsondecode/python",
-    "exec_file":"~/Appdata/Local/Programs/Python/Python37/python.exe",
-    "env":"./Source/bin"
-
+"db_host": "localhost",   
+"db_name": "WorkingWithPythonClasses", 
+"db_user": "root"
 }
